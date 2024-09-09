@@ -1,0 +1,57 @@
+[
+    {
+      "id": "aege",
+      "name": "Aegean",
+      "temperament": "Affectionate, Social, Intelligent, Playful, Active",
+      "origin": "Greece",
+      "description": "Native to the Greek islands known as the Cyclades in the Aegean Sea, these are natural cats, meaning they developed without humans getting involved in their breeding.",
+      "life_span": "9-12",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "abys",
+      "name": "Abyssinian",
+      "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+      "origin": "Egypt",
+      "description": "The Abyssinian is one of the oldest known breeds of domesticated cat. These cats are known for their distinctive 'ticked' fur.",
+      "life_span": "14-15",
+      "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+    },
+    {
+      "id": "siam",
+      "name": "Siamese",
+      "temperament": "Affectionate, Intelligent, Playful, Social",
+      "origin": "Thailand",
+      "description": "Siamese cats are known for their sleek, elegant bodies, striking blue almond-shaped eyes, and short coats.",
+      "life_span": "10-15",
+      "url": "https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg"
+    },
+    {
+      "id": "beng",
+      "name": "Bengal",
+      "temperament": "Alert, Agile, Energetic, Demanding, Intelligent",
+      "origin": "United States",
+      "description": "Bengals are known for their wild, leopard-like appearance and active, playful nature.",
+      "life_span": "12-16",
+      "url": "https://cdn2.thecatapi.com/images/ozEvzdVM-.jpg"
+    },
+    {
+      "id": "maine",
+      "name": "Maine Coon",
+      "temperament": "Affectionate, Intelligent, Gentle, Friendly",
+      "origin": "United States",
+      "description": "Maine Coons are one of the largest domesticated cat breeds and are known for their long fur and friendly personalities.",
+      "life_span": "12-15",
+      "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+    },
+    {
+      "id": "ragd",
+      "name": "Ragdoll",
+      "temperament": "Affectionate, Gentle, Playful, Social",
+      "origin": "United States",
+      "description": "Ragdolls are large, long-haired cats known for their docile and placid temperament, making them great companion pets.",
+      "life_span": "12-17",
+      "url": "https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg"
+    }
+  ]
+  
